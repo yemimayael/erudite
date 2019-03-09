@@ -16,6 +16,12 @@ services:
     heading: "Mengerti pengunjung website anda dan apa yang mereka inginkan adalah faktor sukses penting untuk digital marketing"
   - title: "B2B Marketing"
     heading: "Business-to-business marketing (atau B2B marketing) adalah penjualan produk atau jasa dari satu perusahaan kepada perusahaan yang lain"
+  - title: "Digital Marketing"
+    heading: "Cara orang berinteraksi dengan bisnis telah berubah secara dramatis selama beberapa tahun terakhir dengan munculnya media online"
+  - title: "Market Place"
+    heading: "Ibarat bermain bola, semua orang bisa menendang bola. Namun kalau tidak bisa bermain cantik, maka pemain tersebut dapat keluar sebagai pemenang"
+  - title: "Tips & Tricks"
+    heading: "Berbagi tips dalam dunia marketing"
 
 # Team names, titles and social links
 people:
