@@ -3,7 +3,7 @@ title: Google Adwords
 subtitle: Google Ads Service
 layout: default
 modal-id: 1
-modal-class: googleadswords.png
+modal-class: service
 date: 2014-07-15
 img: googleadswords.png
 thumbnail: googleadswords-thumbnail.png
