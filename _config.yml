@@ -5,6 +5,9 @@ baseurl: /portofolio/
 title: Erudite Training Provider
 email: your-email@domain.com
 description: "Erudite adalah Provider Kursus Digital Marketing"
+intro:
+  - leading: "Selamat Datang!"
+  - heading: "Senang Berjumpa dengan Anda"
 
 
 # Team names, titles and social links
