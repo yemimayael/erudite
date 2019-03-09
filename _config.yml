@@ -8,6 +8,14 @@ description: "Erudite adalah Provider Kursus Digital Marketing"
 intro_leading: "Selamat Datang!"
 intro_heading: "Senang Berjumpa dengan Anda"
 
+# Services
+services:
+  - title: "Google Adwords"
+    heading: "Running a campaign without knowing how to use the platform can be a recipe for burning money fast"
+  - title: "Google Analytics"
+    heading: "Mengerti pengunjung website anda dan apa yang mereka inginkan adalah faktor sukses penting untuk digital marketing"
+  - title: "B2B Marketing"
+    heading: "Business-to-business marketing (atau B2B marketing) adalah penjualan produk atau jasa dari satu perusahaan kepada perusahaan yang lain"
 
 # Team names, titles and social links
 people:
