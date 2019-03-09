@@ -1,16 +1,16 @@
 ---
 title: Google Adwords
-subtitle: Graphic Design
+subtitle: Google Ads Service
 layout: default
 modal-id: 1
-modal-class: service
+modal-class: googleadswords.png
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: googleadswords.png
+thumbnail: googleadswords-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
+category: SEO
 description: Running a campaign without knowing how to use the platform can be a recipe for burning money fast.
 
 ---
