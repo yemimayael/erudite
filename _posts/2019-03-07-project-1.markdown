@@ -2,7 +2,7 @@
 title: Google Analytics
 subtitle: Only for Inhouse Training / Private Session
 layout: default
-modal-id: 111
+modal-id: 1
 modal-class: service
 date: 2014-07-15
 img: googleanalytics.png
