@@ -1,6 +1,6 @@
 ---
-title: Tips & Trick
-subtitle: We help you with our knowledge about the best practice of digital marketing
+title: Tips & Tricks
+subtitle: Free Online
 layout: default
 modal-id: 6
 modal-class: service
