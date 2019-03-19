@@ -2,7 +2,7 @@
 title: B2B Marketing
 subtitle: Only for Inhouse Training / Private Session
 layout: default
-modal-id: 3
+modal-id: 4
 modal-class: service
 date: 2014-07-03
 img: b2b.png
