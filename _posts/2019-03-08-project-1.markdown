@@ -11,6 +11,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: SEO
-description: Running a campaign without knowing how to use the platform can be a recipe for burning money fast.
+description: Google Ads adalah salah satu alat pemasaran yang disediakan oleh Google untuk memudahkan para pemilik produk atau jasa agar dapat mengiklankan produk miliknya. Tidak akan rugi menggunakan Google Ads ini, karena Anda dapat mengendalikan pengeluaran pemasangan iklan secara langsung tanpa adanya campur tangan dengan pihak lain, dan yang lebih menarik lagi Anda bisa menentukan target pasar sendiri untuk memasarkan iklan Anda nantinya.
 
 ---
