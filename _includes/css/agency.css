@@ -412,6 +412,7 @@ section h3.section-subheading {
 
 .override-caption {
     text-transform: none;
+    text-align: center;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
