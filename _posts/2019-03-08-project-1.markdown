@@ -1,6 +1,6 @@
 ---
-title: B2B
-subtitle: B2B Marketing
+title: B2B Marketing
+subtitle: Only for Inhouse Training / Private Session
 layout: default
 modal-id: 1
 modal-class: service
