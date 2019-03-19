@@ -5,8 +5,8 @@ layout: default
 modal-id: 9
 modal-class: service
 date: 2014-07-15
-img: digitalmarketing.png
-thumbnail: digitalmarketing-thumbnail.png
+img: marketplace.png
+thumbnail: marketplace-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
