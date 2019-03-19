@@ -11,7 +11,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: SEO
-description: Google Ads adalah salah satu alat pemasaran yang disediakan oleh Google untuk memudahkan para pemilik produk atau jasa agar dapat mengiklankan produk miliknya. Tidak akan rugi menggunakan Google Ads ini, karena Anda dapat mengendalikan pengeluaran pemasangan iklan secara langsung tanpa adanya campur tangan dengan pihak lain, dan yang lebih menarik lagi Anda bisa menentukan target pasar sendiri untuk memasarkan iklan Anda nantinya.  
-Anda juga dapat mengendalikan sendiri opsi-opsi yang terdapat di Google Ads, karena Anda dapat menetapkan targetkan iklan akan diarahkan kemana dan dari mana datangnya, dengan demikian Anda bisa dengan mudah menempatkan blog atau website di urutan paling atas mesin penelusuran. Karena itu pemilik jasa atau produk online sangat diuntungkan dengan adanya Google Ads ini.
+description: Google Ads adalah salah satu alat pemasaran yang disediakan oleh Google untuk memudahkan para pemilik produk atau jasa agar dapat mengiklankan produk miliknya. Tidak akan rugi menggunakan Google Ads ini, karena Anda dapat mengendalikan pengeluaran pemasangan iklan secara langsung tanpa adanya campur tangan dengan pihak lain, dan yang lebih menarik lagi Anda bisa menentukan target pasar sendiri untuk memasarkan iklan Anda nantinya.  Anda juga dapat mengendalikan sendiri opsi-opsi yang terdapat di Google Ads, karena Anda dapat menetapkan targetkan iklan akan diarahkan kemana dan dari mana datangnya, dengan demikian Anda bisa dengan mudah menempatkan blog atau website di urutan paling atas mesin penelusuran. Karena itu pemilik jasa atau produk online sangat diuntungkan dengan adanya Google Ads ini.
 
 ---
