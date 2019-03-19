@@ -2,7 +2,7 @@
 title: Google Adwords
 subtitle: Running a campaign without knowing how to use the platform can be a recipe for burning money fast
 layout: default
-modal-id: 6
+modal-id: 1
 modal-class: service
 date: 2014-07-01
 img: googleadswords.png
