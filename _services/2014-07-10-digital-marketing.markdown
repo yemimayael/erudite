@@ -2,7 +2,7 @@
 title: Digital Marketing
 subtitle: If your business is not on the internet, then your business will be out of business
 layout: default
-modal-id: 4
+modal-id: 3
 modal-class: service
 date: 2014-07-15
 img: digitalmarketing.png

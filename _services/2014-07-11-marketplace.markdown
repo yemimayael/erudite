@@ -2,7 +2,7 @@
 title: Marketplace / Online Store
 subtitle: Only for Inhouse Training / Private Session
 layout: default
-modal-id: 5
+modal-id: 2
 modal-class: service
 date: 2014-07-15
 img: marketplace.png
