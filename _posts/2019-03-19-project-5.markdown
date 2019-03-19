@@ -1,16 +1,16 @@
 ---
-title: Google Adwords
-subtitle: Running a campaign without knowing how to use the platform can be a recipe for burning money fast
+title: Google Analytics
+subtitle: Only for Inhouse Training / Private Session
 layout: default
-modal-id: 7
+modal-id: 8
 modal-class: service
 date: 2014-07-15
-img: googleadswords.png
-thumbnail: googleadswords-thumbnail.png
+img: googleanalytics.png
+thumbnail: googleanalytics-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: SEO
-description: Semua bisnis mempunyai satu kesamaan; jika mereka ingin mempunyai pelanggan baru atau meningkatkan kapasitas bisnis mereka, kegiatan marketing harus tetap dijalankan. Saat ini sudah banyak strategi marketing dan salah satu yang efektif adalah Google Adwords. Iklan yang dihasilkan melalui Google Adwords dapat menjangkau 80% pengguna internet pada saat mereka sedang mencari di Google. Anda dapat melakukan personalisasi iklan Google Adwords anda agar sesuai dengan kebutuhan bisnis dan di saat yang sama Anda mempunyai kontrol penuh atas budget marketing. Anda juga akan mendapatkan laporan langsung dari Google untuk kinerja iklan Anda, seperti keywords yang paling efektif, jumlah pelanggan potensial, lokasi dan waktu kunjungan, dan lain-lain.<br/><br/>Setelah mengikuti Google Adwords Training ini, Anda pasti bisa menjalankan Google Adwords sendiri tanpa bantuan digital agency dan melakukan analisis optimasi untuk meningkatkan kinerja iklan. Selain itu, Google Adwords Training ini juga akan membahas konsep digital marketing dan kekuatan / kekurangan setiap digital marketing channel yang ada.
+description: Mengerti pengunjung website anda dan apa yang mereka inginkan adalah faktor sukses penting untuk digital marketing. Cara yang paling baik untuk itu adalah melalui statistik trafik website dan inilah yang ditawarkan oleh Google Analytics dengan gratis. Kita dapat menggunakan data yang ada untuk meningkatkan kinerja website.<br/><br/>Pelatihan Google Analytics akan mengajarkan cara implementasi dan melakukan analisis semua laporan data yang ada hingga data detail yang didapatkan melalui dimensions dan segments. Para peserta pelatihan juga bisa melakukan tracking untuk campaign, event dan goal. Materi Kursus Google Analytics ini praktis dan mencakup semua fungsi yang akan digunakan dalam kegiatan analisis setiap hari.
 
 ---
