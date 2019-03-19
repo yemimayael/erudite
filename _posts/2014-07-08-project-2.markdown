@@ -1,12 +1,12 @@
 ---
-title: Tips & Trick
-subtitle: We help you with our knowledge about the best practice of digital marketing
+title: Marketplace / Online Store
+subtitle: Only for Inhouse Training / Private Session
 layout: default
-modal-id: 12
+modal-id: 2
 modal-class: service
 date: 2014-07-15
-img: tipstrick.png
-thumbnail: tipstrick-thumbnail.png
+img: marketplace.png
+thumbnail: marketplace-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
