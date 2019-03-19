@@ -4,7 +4,7 @@ subtitle: Only for Inhouse Training / Private Session
 layout: default
 modal-id: 3
 modal-class: service
-date: 2014-07-03
+date: 2019-03-03
 img: b2b.png
 thumbnail: b2b-thumbnail.png
 alt: image-alt

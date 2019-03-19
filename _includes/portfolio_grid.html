@@ -8,7 +8,8 @@
                 </div>
             </div>
             <div class="row">
-            {% for post in site.posts %}
+            {% assign posts = (site.posts | sort: 'date') %}
+            {% for post in posts %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#{{post.modal-class}}Modal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
