@@ -1,4 +1,4 @@
-<!-- Portfolio Grid Section -->
+<!-- services Grid Section -->
     <section id="services" class="bg-light-gray">
         <div class="container">
             <div class="row">
@@ -10,16 +10,16 @@
             <div class="row">
             {% assign services = (site.services | sort: 'date') %}
             {% for service in services %}
-                <div id="portfolio" class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#{{service.modal-class}}Modal{{ service.modal-id }}" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
+                <div class="col-md-4 col-sm-6 services-item">
+                    <a href="#{{service.modal-class}}Modal{{ service.modal-id }}" class="services-link" data-toggle="modal">
+                        <div class="services-hover">
+                            <div class="services-hover-content">
                                 <i class="fa"></i>
                             </div>
                         </div>
                         <img src="img/service/{{ service.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="services-caption">
                         <h4 class="override-caption">{{ service.title }}</h4>
                         <p class="text-muted override-caption">{{ service.subtitle }}</p>
                     </div>
