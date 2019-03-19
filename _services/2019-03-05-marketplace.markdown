@@ -1,6 +1,6 @@
 ---
 title: Marketplace / Online Store
-subtitle: Running
+subtitle: Only for Inhouse Training / Private Session
 layout: default
 modal-id: 5
 modal-class: service

@@ -1,6 +1,6 @@
 ---
 title: Google Analytics
-subtitle: Running
+subtitle: Only for Inhouse Training / Private Session
 layout: default
 modal-id: 2
 modal-class: service
