@@ -1,6 +1,6 @@
 ---
 title: Digital Marketing
-subtitle: If your business is not on the internet, then your business will be out of business
+subtitle: Running
 layout: default
 modal-id: 4
 modal-class: service

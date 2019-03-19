@@ -1,6 +1,6 @@
 ---
 title: Google Adwords
-subtitle: Running a campaign without knowing how to use the platform can be a recipe for burning money fast
+subtitle: Running
 layout: default
 modal-id: 1
 modal-class: service
