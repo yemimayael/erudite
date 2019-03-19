@@ -410,9 +410,13 @@ section h3.section-subheading {
     background-color: #fff;
 }
 
+.override-caption {
+    text-transform: none;
+}
+
 #portfolio .portfolio-item .portfolio-caption h4 {
     margin: 0;
-    text-transform: none !important; 
+    text-transform: none;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
