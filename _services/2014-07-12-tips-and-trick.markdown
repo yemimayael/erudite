@@ -2,7 +2,7 @@
 title: Tips & Trick
 subtitle: We help you with our knowledge about the best practice of digital marketing
 layout: default
-modal-id: 1
+modal-id: 6
 modal-class: service
 date: 2014-07-15
 img: tipstrick.png
