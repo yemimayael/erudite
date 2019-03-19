@@ -10,7 +10,7 @@
             <div class="row">
             {% assign services = (site.services | sort: 'date') %}
             {% for service in services %}
-                <div id="portfolio" class="col-md-4 col-sm-6 portfolio-item">
+                <div id="portfolio" class="col-md-4 col-sm-6 portfolio portfolio-item">
                     <a href="#{{service.modal-class}}Modal{{ service.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
