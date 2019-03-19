@@ -4,7 +4,7 @@ subtitle: We help you with our knowledge about the best practice of digital mark
 layout: default
 modal-id: 6
 modal-class: service
-date: 2014-07-15
+date: 2014-07-06
 img: tipstrick.png
 thumbnail: tipstrick-thumbnail.png
 alt: image-alt

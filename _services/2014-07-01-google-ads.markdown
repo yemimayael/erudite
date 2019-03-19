@@ -4,7 +4,7 @@ subtitle: Running a campaign without knowing how to use the platform can be a re
 layout: default
 modal-id: 1
 modal-class: service
-date: 2014-07-15
+date: 2014-07-01
 img: googleadswords.png
 thumbnail: googleadswords-thumbnail.png
 alt: image-alt

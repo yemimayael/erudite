@@ -4,7 +4,7 @@ subtitle: Only for Inhouse Training / Private Session
 layout: default
 modal-id: 5
 modal-class: service
-date: 2014-07-15
+date: 2014-07-05
 img: marketplace.png
 thumbnail: marketplace-thumbnail.png
 alt: image-alt

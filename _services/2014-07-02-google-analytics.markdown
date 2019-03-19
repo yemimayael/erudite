@@ -4,7 +4,7 @@ subtitle: Only for Inhouse Training / Private Session
 layout: default
 modal-id: 2
 modal-class: service
-date: 2014-07-15
+date: 2014-07-02
 img: googleanalytics.png
 thumbnail: googleanalytics-thumbnail.png
 alt: image-alt
