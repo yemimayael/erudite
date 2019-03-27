@@ -8,6 +8,21 @@ description: "Erudite adalah Provider Kursus Digital Marketing"
 intro_leading: "Selamat Datang!"
 intro_heading: "Senang Berjumpa dengan Anda"
 
+schedules:
+- date: 12 - 13 Maret 2019
+- title: Training Google Adwords
+- description: "deskripsi sekilas atau alamat training nya"
+- date: 27 Maret 2019
+- title: Training Google Adwords
+- description: "deskripsi sekilas atau alamat training nya"
+- date: 30 April 2019
+- title: Training Google Adwords
+- description: "deskripsi sekilas atau alamat training nya"
+- date: Next Training
+- title: Based on quota request
+- description: "deskripsi sekilas atau alamat training nya"
+
+
 # Services
 # services:
 #   - title: "Google Adwords"
