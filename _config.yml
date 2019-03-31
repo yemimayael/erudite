@@ -2,14 +2,14 @@ url: https://yemimayael.github.io
 baseurl: /erudite/
 
 # Site settings
-title: Erudite Training Provider
+title: ERUDITE Training Provider
 email: your-email@domain.com
 description: "Erudite adalah Provider Kursus Digital Marketing"
 intro_leading: "Selamat Datang!"
-intro_heading: "Senang Berjumpa dengan Anda"
+intro_heading: "MARI BERGABUNG"
 
 schedules:
-- date: 12 - 13 Maret 2019
+- date: 23 - 24 April 2019
   title: Training Google Adwords
   description: "deskripsi sekilas atau alamat training nya"
 - date: 27 Maret 2019
