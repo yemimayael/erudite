@@ -2,7 +2,7 @@ url: https://yemimayael.github.io
 baseurl: /erudite/
 
 # Site settings
-title: E R U D I T E  Training  Provider
+title: E R U D I T E    Training  Provider
 email: your-email@domain.com
 description: "Erudite adalah Provider Kursus Digital Marketing"
 intro_leading: "Selamat Datang!"
@@ -11,16 +11,16 @@ intro_heading: "MARI BERGABUNG"
 schedules:
 - date: 23 - 24 April 2019
   title: Training Google Adwords
-  description: " Sistem/ skema pemasaran periklanan mesin pencarian Google yang biasa disebut sebagai Search Engine Marketing."
+  description: " sistem/ skema pemasaran periklanan mesin pencarian Google yang biasa disebut sebagai Search Engine Marketing."
 - date: 30 April 2019
+  title: Training Digital Marketing
+  description: "suatu usaha untuk mempromosikan sebuah merek dengan menggunakan media digital yang dapat menjangkau konsumen secara tepat waktu, pribadi, dan relevan"
+- date: 2 Mei 2019
   title: Training Google Analytics
-  description: "Layanan gratis dari Google yang menampilkan statistik pengunjung sebuah situs web."
-- date: 30 April 2019
-  title: Training Google Adwords
-  description: "deskripsi sekilas atau alamat training nya"
-- date: Next Training
-  title: Based on quota request
-  description: "deskripsi sekilas atau alamat training nya"
+  description: "layanan gratis dari Google yang menampilkan statistik pengunjung sebuah situs web"
+- date: Inhouse Training
+  title: Based on request
+  description: "B2B Marketing dan MArketplace/Online Store"
 
 
 # Services
@@ -70,8 +70,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: DBS Tower Lantai 28
+  - line: Jl. Prof. Dr. Satrio Kav. 3-5
+  - line: Jakarta Selatan 12940 - Indonesia
+  
 
 # Build settings
 markdown: kramdown
