@@ -6,7 +6,7 @@ title: E R U D I T E  -  Training  Provider
 email: your-email@domain.com
 description: "Erudite adalah Provider Kursus Digital Marketing"
 intro_leading: "Hi!"
-intro_heading: "Mari Gabung"
+intro_heading: "Yuk Gabung"
 
 schedules:
 - date: 23 - 24 April 2019
@@ -20,7 +20,7 @@ schedules:
   description: "layanan gratis dari Google yang menampilkan statistik pengunjung sebuah situs web"
 - date: Inhouse Training
   title: Based on request
-  description: "B2B Marketing dan MArketplace/Online Store"
+  description: "B2B Marketing dan Marketplace/Online Store"
 
 
 # Services
@@ -71,8 +71,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: DBS Tower Lantai 28
-  - line: Jl. Prof. Dr. Satrio Kav. 3-5
-  - line: Jakarta Selatan 12940 - Indonesia
+  - line: Jl. Prof. Dr. Satrio Kav. 3-5 (Jakarta Selatan 12940 - Indonesia) 
   
 
 # Build settings
