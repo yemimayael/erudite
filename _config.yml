@@ -2,11 +2,11 @@ url: https://yemimayael.github.io
 baseurl: /erudite/
 
 # Site settings
-title: E R U D I T E    Training  Provider
+title: E R U D I T E  -  Training  Provider
 email: your-email@domain.com
 description: "Erudite adalah Provider Kursus Digital Marketing"
-intro_leading: "Selamat Datang!"
-intro_heading: "LET'S JOIN"
+intro_leading: "Hi!"
+intro_heading: "Mari Gabung"
 
 schedules:
 - date: 23 - 24 April 2019
