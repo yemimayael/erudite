@@ -1,6 +1,6 @@
 ---
 title: Digital Marketing
-subtitle: Onsite / Inhouse Training
+subtitle: Public  Workshop / Inhouse Training
 layout: default
 modal-id: 4
 modal-class: service

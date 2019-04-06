@@ -1,6 +1,6 @@
 ---
 title: Google Analytics
-subtitle: Onsite / Inhouse Training
+subtitle: Public Workshop / Inhouse Training
 layout: default
 modal-id: 2
 modal-class: service

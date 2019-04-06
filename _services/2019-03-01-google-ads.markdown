@@ -1,6 +1,6 @@
 ---
 title: Google Adwords
-subtitle: Onsite / Inhouse Training
+subtitle: Public Workshop/ Inhouse Training
 layout: default
 modal-id: 1
 modal-class: service
